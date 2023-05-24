@@ -1,0 +1,8 @@
+region_name = "us-east-1"
+myvpcname = "myvpcterra"
+mycidrvpc = "10.150.0.0/16"
+myigwname = "myigwterra"
+myroutename = "myrouteterra"
+mycidrsubnet = "10.150.15.0/24"
+mysubnetname = "mysubnetterra"
+mysgname = "mysgterra"

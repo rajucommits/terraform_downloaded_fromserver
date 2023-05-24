@@ -1,0 +1,12 @@
+variable "region_name" {}
+variable "mybucket" {}
+variable "myami" {}
+variable "myinstancetype" {}
+variable "myec2name" {}
+variable "myvpcname" {}
+variable "mycidrvpc" {}
+variable "myigwname" {}
+variable "myroutename" {}
+variable "mycidrsubnet" {}
+variable "mysubnetname" {}
+variable "mysgname" {}

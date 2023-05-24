@@ -1,0 +1,5 @@
+myami = "ami-0fa1de1d60de6a97e"
+myinstancetype = "t2.micro"
+myec2name = "terragenerated"
+mykeyname="ram"
+mypubkey = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDNYyNCPRm8aBncqtTf+rrgKGsz7CuvghtF/MVe3s2Aa4oYQoWeYbpm519RW2P6woAx88R19zBQG12A3lQrIIE/nUpDkbL5JLCLfKRqgxu19/rU/CMdB13qEcXLvBOy/FcJHzEBHkiMLIKd5+iubzMNmlJkV1DM+0VwjDowYD4qXFUCG7ar1Lro5Gg1s4YXLUNLIKva292PLoVp+iHoTrnBnBIVJQ4fH305vrXH5hb+/IY216YzdMgPtF6JG+ptAHD4HDMqIXHKllm/XrH+TI05tpo49DfHTREV2QGe8Fs/RaMUYmdK+e/gEsp6kWxNXvIWepIGlPU5S08dzOk937GIlIJ1UKTXVL1SHKLZXz5qmbukheMKT0D+1bsV5cQB+TIiruVXmoIyRW9O3A3nFfIq8svoLyXFvVVuB2JHGLwY0phdnGEl71h0qL8Iig9n+S0+DEu4CI5lxbSs2EankYrd0JBgA05M6Kb4364nC8dANw57hiA6nIY7oO0W/wB07Wk= sola@divum.in"
